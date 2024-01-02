@@ -202,7 +202,7 @@ navigate("/datadetail/"+id)
                     <form onSubmit={SubmitData}>
                         <div className="logout">
 
-                            <button type="submit" className="btn btn-danger" ><i class="fa-regular fa-user"></i></button>
+                              <button type="submit" ><i class="fa-regular fa-user"></i> logout</button>
                         </div>
                     </form>
                 </div>
