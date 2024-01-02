@@ -67,7 +67,7 @@ regu()
     })
 }
 else{
-    setData1("create strong password...")
+     setData1("create strong password a-z,0-9 and @ # $...")
 }
 
 }
